@@ -55,7 +55,7 @@ nav{
 
 .content
 {
-    margin-top: 80px;
+    margin-top: 70px;
     color: #fff;
 } 
 
@@ -85,6 +85,8 @@ nav{
     background: transparent;
     border: 0;
     cursor: pointer;
+    margin-top: 3px;
+
 }
 
 .search-box button img{
