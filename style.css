@@ -113,7 +113,7 @@ nav{
 @media (max-width:360px)
 {
     .search-box input{
-        width: 200px;
+        width: 243px;
     }
     .nav-logo {
         flex-basis: 100%;
@@ -161,6 +161,6 @@ nav{
 
     .arrow
     {
-        text-align: center;
+        margin-left: 100px;
     }
 }
